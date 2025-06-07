@@ -1,3 +1,4 @@
 #!/bin/bash
 
-7z a package.xpi img manifest.json
+cd $(dirname $0)/package
+7z a ../package.xpi *
