@@ -6,12 +6,13 @@
   "author": "Vlad-Andrei Popescu",
   "homepage_url": "https://github.com/vapopescu/google_minus_ai",
   "icons": {
-    "16": "img/icon.svg",
-    "32": "img/icon.svg",
-    "48": "img/icon.svg",
-    "64": "img/icon.svg",
-    "96": "img/icon.svg",
-    "128": "img/icon.svg"
+    "16": "img/icon-16.png",
+    "32": "img/icon-32.png",
+    "48": "img/icon-48.png",
+    "64": "img/icon-64.png",
+    "96": "img/icon-96.png",
+    "128": "img/icon-128.png",
+    "192": "img/icon-192.png"
   },
   "browser_specific_settings": {
     "gecko": {
@@ -24,7 +25,7 @@
       "name": "Google Minus AI",
       "search_url": "https://www.google.com/search?q={searchTerms}+-ai",
       "keyword": "@gmai",
-      "favicon_url": "img/favicon.ico",
+      "favicon_url": "https://google.com/search",
       "is_default": true,
       "encoding": "UTF-8"
     }
